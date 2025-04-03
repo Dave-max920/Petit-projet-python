@@ -1,0 +1,71 @@
+.title{
+    background-image: url(img/20246110412258.png);
+    background-size: cover;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+.text{
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: start;
+}
+.premierlien{
+    padding-inline: 30px;
+    font-size: 20px;
+    color: white;
+}
+.premierlien:hover{
+    font-size: 30px;
+    color: aqua;
+}
+.body{
+    background-color: rgb(16, 61, 16);
+    background-size: cover;
+}
+.champs{
+    background-color:rgb(88, 199, 162);
+    box-shadow: 3px 3px 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+}
+.mother{
+    margin: 200px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+.intro{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.firstbio{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.secondbio{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.thirdbio{
+    color: rgb(23, 23, 146);
+    font-family: 'Times New Roman', Times, serif;
+}
+.pied{
+    padding: 50px;
+    margin: 0px;
+    margin-top: 0px;
+    background-color: grey;
+}
+.part{
+    padding-inline: 150px;
+    color: white;
+    text-align: center;
+}
+.part:hover{
+    font-size: 20px;
+    color: aquamarine;
+}

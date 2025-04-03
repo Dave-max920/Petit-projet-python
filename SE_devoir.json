@@ -1,0 +1,220 @@
+{
+    "comptes": {
+        "User_name": "Bob",
+        "Gender": "M",
+        "Birth_year": 1982,
+        "Pasword": "+356Bobb",
+        "Filesystem": {
+            "Desktop_window": {
+                {
+                    
+                "Folder_name": "Syllabus_Bac0",
+                "Creation_year": 2024,
+                "Permission":"R/W/X",
+                "size_in_Mo": 270,
+                "Content": [
+                    {
+                        "File_name":"Syllabus_math",
+                        "Creation_date":"2024/3/5",
+                        "Permission":"R/W/X",
+                        "size_in_Mo":24,
+                        "Content":"Null"
+                    }, {
+                            "File_name":"Syllabus_anglais",
+                            "Type_file":"PDF_file",
+                            "Creation_date":"2024/3/6",
+                            "Permission":"R/W/X",
+                            "size_in_Mo":26,
+                            "Content":"Null"
+                    }, {
+                            "Folder_name":"Syllabus_Python",
+                            "Creation_date":"2024/3/10",
+                            "Permission":"R/W/X",
+                            "size_in_Mo":110,
+                            "Content": [
+                            {
+                                "File_name":"Livre_apprendre_Python",
+                                "Type_file":"PDF_file",
+                                "Insertion_date":"2024/3/15",
+                                "Permission":"R/W/X",
+                                "size_in_Mo":25
+                            },{
+                                "File_name":"Python_debutant",
+                                "Type_file":"PDF_file",
+                                "Insertion_date":"2024/3/15",
+                                "size_in_Mo":21,
+                                "Permission":"R/W/X"
+                            }
+                        ]
+                    },{
+                        "File_name":"Syllabus_electronique",
+                        "Type_file":"PDF_file",
+                        "Insertion_date":"2024/3/17",
+                        "Permission":"R/X",
+                        "size_in_Mo":22
+                    }
+                ]
+                },{
+                    "File_name":"Microsoft_edge",
+                    "Type_file":"Executable_file",
+                    "size_in_Mo":260,
+                    "Permission":"R/W/X"
+                },{
+                    "File_name": "Visual_studio_code",
+                    "Type_file":"Executable_file",
+                    "size_in_Mo":550,
+                    "Permission":"R/W/X"
+                },{
+                    "Folder_name":"Tutoriels_Development",
+                    "creation_date":"2025/4/20",
+                    "Permission":"R/W/X",
+                    "content":[
+                        {
+                            "Folder_name":"Python_Tutoriels",
+                            "Creation_date":"2025/4/21",
+                            "size_in_Mo":2048,
+                            "Permission":"R/W/X",
+                            "content":[
+                                {
+                                    "File_name":"Python_introduction",
+                                    "Type_file":"video mp4",
+                                    "size_in_Mo":60,
+                                    "Permission":"R/W/X"
+                                },{
+                                    "File_name":"Python_les_variables",
+                                    "Type_file":"video mp4",
+                                    "size_in_Mo":97,
+                                    "Permission":"R/W/X"
+                                },{
+                                    "File_name":"Python_les_conditions",
+                                    "Type_file":"video mp4",
+                                    "Permission":"R/W/X",
+                                    "size_in_Mo":110
+                                },{
+                                    "File_name":"Python_les_boucles",
+                                    "Type_file":"video mp4",
+                                    "Permission":"R/W/X",
+                                    "size_in_Mo":100
+                                }
+                            ]
+                        },{
+                            "Folder_name":"C_tutoriels",
+                            "Creation_date":"2024/4/10",
+                            "Permission":"R/W/X",
+                            "size_in_Mo":2077,
+                            "content":[
+                                {
+                                    "File_name":"C_introduction",
+                                    "Type_file":"video mp4",
+                                    "Permission":"R/W/X",
+                                    "size_in_Mo":270
+                                },{
+                                    "File_name":"C_declaration",
+                                    "size_in_Mo":270,
+                                    "Permission":"R/W/X",
+                                    "Type_file":"video mp4"
+                                },{
+                                    "Folder_name":"Exercices",
+                                    "size_in_Mo":1,
+                                    "Permission":"R/W/X",
+                                    "creation_date":"2025/4/20",
+                                    "content":[]
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "File_name":"Codeblocks",
+                    "Type_file":"executable_file",
+                    "Insertion_date":"2024/5/20",
+                    "size_in_Mo":670,
+                    "Permission":"W/R/X"
+                }
+            },{
+                "C_Disk":[
+                    {
+                        "Folder_name":"Operating_system",
+                        "Size_in_Mo":5048,
+                        "Content":[
+                             {
+                                "Folder_name": "Windows",
+                                "creation_date": "2024/1/2",
+                                "permission":"R",
+                                "content":[
+                                    {
+                                        "Folder_name":"security",
+                                        "permission":"R",
+                                        "creation_date":"2024/1/2",
+                                        "content":{
+                                            "File_name":"Policy",
+                                            "Type_file":"XSD_file",
+                                            "size_in_Kb":20
+                                        }
+                                    },{
+                                        "Folder_name":"Setup",
+                                         "permission":"R",
+                                         "creation_date":"2024/1/2",
+                                        "content":[
+                                            {
+                                                "Folder_name":"State",
+                                                "permission":"R",
+                                                "creation_date":"2024/1/2",
+                                                "content":{
+                                                "File_name":"state",
+                                                    "Type_file":"configuration",
+                                                    "size_in_Kb":10
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },{
+                        "Folder_name":"Program_files",
+                        "permission":"R",
+                        "creation_date":"2024/1/2",
+                        "content":[
+                            {
+                                "Folder_name":"Program_files",
+                                "permission":"R",
+                                "creation_date":"2024/1/2",
+                                "content":"vide"
+                            }
+                        ]
+                    }
+                ]
+    
+            },{ "D_Disque":[
+                    {
+                        "Folder_name":"Photos",
+                        "creation_date":"2024/6/20",
+                        "permission":"R/W/X",
+                        "size_in_Mo":4039,
+                        "content":[
+                            {
+                                "file_name":"AAAAP",
+                                "Type_file": "JPG_file",
+                                "insertion_date":"2025/4/3",
+                                "size_in_Mo":3,
+                                "permission":"R/W"
+                            },{
+                                "file_name":"AAAAbBB",
+                                "Type_file": "JPG_file",
+                                "insertion_date":"2025/4/3",
+                                "size_in_Mo":4,
+                                "permission":"R/W"
+                            },{
+                                "file_name":"CCCCCP",
+                                "Type_file": "JPG_file",
+                                "insertion_date":"2025/4/5",
+                                "size_in_Mo":3,
+                                "permission":"R/W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,262 @@
+.entete{
+    background-image: url('img/202461104218272.png');
+    background-size: cover;
+    margin: 0px;
+    padding: 40px;
+
+}
+.title{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 70px;
+}
+.formu{
+    text-align: end;
+}
+.paragraph{
+    color: aquamarine;
+    font-size: 20px;
+}
+.search{
+    color: aquamarine;
+}
+.link{
+    color: white;
+    padding-inline: 20px;
+    font-size: 30px;
+    
+}
+.navigation{
+    text-align: center;
+}
+.link:hover{
+    font-size: 50px;
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: rgb(153, 211, 153);
+    margin: 0px;
+    padding-right: 2px;
+    padding-block-end: 2px;
+    text-align: center;
+
+
+}
+.develop{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(65, 80, 80);
+    background-position: 100px;
+    padding: 30px;
+    padding-left: 10px;
+    color: white;
+    margin-top: 0px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.secondmain{
+    margin: 0px;
+}
+.holder{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    font-size: 20px;
+    color: blue;
+}
+.first{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+
+}
+.first:hover{
+    height: 250px;
+    width: 250px;
+}
+.invit{
+    font-size: 40px;
+    text-align: center;
+
+}
+.invit:hover{
+    font-size: 50px;
+}
+.phototumaini{
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+
+}
+.phototumaini:hover{
+    height: 250px;
+    width: 250px;
+}
+.tumaini{
+    font-size: 40px;
+    margin-block: 50px;
+    text-align: center;
+}
+.tumaini:hover{
+    font-size: 50px;
+}
+.biogra{
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+
+}
+.biogra:hover{
+    height: 250px;
+    width: 250px;
+}
+.bio{
+    font-size: 40px;
+    margin-block: 50px;
+    text-align: center;
+}
+.bio:hover{
+    font-size: 50px;
+}
+.lot{
+    text-align: end;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.lot:hover{
+    box-shadow: 40px;
+    color: white;
+}
+
+.hunter{
+    margin: 0px;
+    text-align: end;
+    margin-bottom: 0px;
+}
+.body{
+    background-color: rgb(162, 219, 162);
+    margin: 0px;
+    margin-bottom: 0px;
+    padding: 30px;
+}
+.pied{
+    background-color: rgb(65, 68, 68);
+    padding: 50px;
+    margin: 0px;
+    margin-top: 0px;
+}
+.part{
+    padding-inline: 200px;
+    color: white;
+    text-align: center;
+}
+.part:hover{
+    font-size: 40px;
+}
+.fullform{
+}
+.contain{
+    padding-left: 4px;
+
+}
+.champsset{
+    background-color: rgb(46, 100, 46);
+    background-repeat: no-repeat;
+    border-color: aquamarine;
+    border-radius: 50px;
+    border-spacing: 45px;
+    background-size: cover;
+    text-align: center;
+    padding-right: 50px;
+}
+.mailing{
+    padding-right:4px ;
+}
+.contain{
+    padding-left: 4px;
+}
+.father{
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.inputone{
+    text-align: center;
+    font-size: 20px;
+}
+.firstlabel{
+    text-align: start;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.inputwo{
+    text-align: start;
+    font-size: 20px;
+    size: 40px;
+}
+.inputthree{
+    text-align: start;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+.secondlabel{
+    text-align: start;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.thirdlabel{
+    text-align: center;
+    font-size: 20px;
+}
+.forsubmit{
+    text-align: center;
+    font-size: 20px;
+}
+.gmail{
+    height: 20px;
+    width: 300px;
+}
+.name{
+    height: 20px;
+    width: 300px;
+}
+.forpassword{
+    height: 20px;
+    width: 300px;
+}
+.forsubmito{
+    background-color: aqua;
+    padding: 20px;
+    font-size: 20px;
+    box-shadow: 100 100px;
+    border-radius: 20px;
+}
+.forsubmit{
+    text-align: end;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 20px;
+
+}
+.forsubmito:hover{
+    background-color: blue;
+}
+.corps{
+    background-image: url(img/20246110412258.png);
+    background-size: cover;
+}
+.end{
+    padding-top: 20px;
+    text-align: center;
+}
+.return{
+    color: white;
+    font-size: larger;
+}
+.return:hover{
+    color: rgb(165, 24, 24);
+}
